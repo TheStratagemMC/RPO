@@ -1,0 +1,30 @@
+#Threshold: The amount of players online (not including) where there will begin to be the maxAmount of bots added
+threshold: 15
+#Min amount: The minimum number of bots to have online (when someone is online)
+minAmount: 2
+#MaxAmount: Maximum number of bots to have online
+maxAmount: 5
+#Speed: How quickly the bots will join or leave when it detects a need for change(1-20, 20 being the fastest!)
+speed: 3
+
+
+#Plugin Name: The name of the plugin to the server, as shown in /plugins and /?. Good for being sneaky
+pluginName: ConspicuousPlugin
+#Command Name: The name of the command to configure rpo, good for being sneaky
+commandName: rpo
+
+#Name File: Name of a file in the plugin's datafolder to load usernames from.
+nameFile: changeThisToAFileInThePluginDirectory.txt
+
+#(MAKE SURE YOU HAVE ONE USERNAME PER LINE, like so:)
+# ######[names.txt]############
+#
+# Billly
+# akselm
+# md_5
+# NyeTheScience
+# KidMd_5
+# GrownMd_5
+# ....
+#
+# ## #### ##################

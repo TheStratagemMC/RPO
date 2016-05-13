@@ -1,0 +1,12 @@
+DONE - Make it so the fake players get achievements
+Add protocollib support and essentials whois
+Configurable speed, be able to cancel the task and start new ones based on necessity
+DONE - Fix the /list and tab on tsmc?
+
+Fix the fact that the players are always welcomed even if theyve been on the server before
+
+
+- initiate trades and conversations with each other
+
+statisticalness...
+chat, actions api
